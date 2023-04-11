@@ -1,0 +1,1 @@
+document.write("<p>General Facilities<ul><li>Online Learning (SPADA)</li><li>Library</li><li>Student Affairs</li><li>Teknokrat Card</li><li>Teknokrat Student Park</li><li>Teknokrat TV</li><li>Teknokrat University Facilities</li></ul>Services<ul><li>Academics</li><li>Competence Based Tests</li><li>Schedule</li><li>e-Jurnal</li><li>Repository</li></ul></p>")
