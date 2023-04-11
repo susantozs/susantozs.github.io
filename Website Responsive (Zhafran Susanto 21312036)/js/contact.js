@@ -1,1 +1,0 @@
-document.write("<p>Phone : 0721 - 702022 (Hunting)</p> <p>WhatsApp : 085383020570 (Chat Only)</p>")

@@ -1,1 +1,0 @@
-document.write("<p>Name : Zhafran Susanto</p> <p>NPM : 21312036</p> <p>Study Program : Informatics</p>")
